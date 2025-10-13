@@ -35,7 +35,7 @@ export default function Document() {
           crossOrigin="anonymous"
         />
 
-        <link rel="canonical" href="https://dhafagk.com" />
+        <link rel="canonical" href="https://dhafa.pages.dev/" />
 
         <meta name="author" content="Dhafa Gustiadi Kurniawan" />
         <meta name="contact" content="dhafageka@gmail.com" />

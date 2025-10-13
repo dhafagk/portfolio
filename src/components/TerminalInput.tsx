@@ -27,14 +27,14 @@ const TerminalInput = ({
     ],
     contact: [
       "Contact Information:",
-      "📧 Email: dhafa@example.com",
-      "💼 LinkedIn: linkedin.com/in/dhafa",
-      "🐙 GitHub: github.com/dhafa",
-      "🌐 Portfolio: dhafa.dev",
+      "📧 Email: dhafageka@gmail.com",
+      "💼 LinkedIn: linkedin.com/in/dhafagk",
+      "🐙 GitHub: github.com/dhafagk",
+      "🌐 Portfolio: dhafa.pages.dev",
     ],
     whoami: [
       "dhafa",
-      "User: Developer & Creator",
+      "User: Developer",
       "Status: Currently building awesome things ✨",
     ],
   };

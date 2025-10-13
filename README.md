@@ -4,7 +4,7 @@ A modern, terminal-inspired portfolio website built with Next.js, showcasing my 
 
 ## 🚀 Live Demo
 
-Visit the live portfolio at [dhafagk.com](https://dhafagk.com)
+Visit the live portfolio at [dhafa.pages.dev](https://dhafa.pages.dev/)
 
 ## ✨ Features
 
@@ -180,12 +180,12 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📬 Contact
 
-- **Website**: [dhafagk.com](https://dhafagk.com)
+- **Website**: [dhafa.pages.dev](https://dhafa.pages.dev/)
 - **Email**: dhafageka@gmail.com
 - **GitHub**: [@dhafagk](https://github.com/dhafagk)
 
 ---
 
-Built with ❤️ by [Dhafa Gustiadi Kurniawan](https://dhafagk.com)
+Built with ❤️ by [Dhafa Gustiadi Kurniawan](https://dhafa.pages.dev/)
 
 _Design inspired by [Alex Dimitrov's Figma Template](https://www.figma.com/community/file/1417555189581721037)_

@@ -1,4 +1,5 @@
 import Layout from "@/components/Layout";
+import Link from "next/link";
 
 export default function AboutPage() {
   return (
@@ -14,15 +15,33 @@ export default function AboutPage() {
             </div>
             <div className="flex items-center text-left gap-4">
               <span className="text-muted w-24">Instagram:</span>
-              <span className="text-link">@dhafageka</span>
+              <Link
+                href="https://www.instagram.com/dhafageka/"
+                className="text-link hover:underline"
+                target="_blank"
+              >
+                @dhafageka
+              </Link>
             </div>
             <div className="flex items-center text-left gap-4">
               <span className="text-muted w-24">Linkedin:</span>
-              <span className="text-link">dhafagk</span>
+              <Link
+                href="https://www.linkedin.com/in/dhafagk/"
+                className="text-link hover:underline"
+                target="_blank"
+              >
+                dhafagk
+              </Link>
             </div>
             <div className="flex items-center text-left gap-4">
               <span className="text-muted w-24">Github:</span>
-              <span className="text-link">dhafagk</span>
+              <Link
+                href="https://github.com/dhafagk"
+                className="text-link hover:underline"
+                target="_blank"
+              >
+                dhafagk
+              </Link>
             </div>
           </div>
         </div>
