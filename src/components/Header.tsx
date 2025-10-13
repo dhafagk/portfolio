@@ -81,7 +81,7 @@ const Header = ({ currentPage }: HeaderProps) => {
             <span className="text-link">Design by Alex Dimitrov</span>
           </Link>
           <Link
-            href="#"
+            href="https://github.com/dhafagk/portfolio"
             className="hidden sm:flex items-center h-fit gap-1 hover:underline"
             target="_blank"
           >
