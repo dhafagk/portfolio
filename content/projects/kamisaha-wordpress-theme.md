@@ -1,6 +1,6 @@
 ---
 id: kamisaha-wordpress-theme
-date: "2022"
+date: "2021"
 name: "Kamisaha Wordpress Theme"
 tech: "Wordpress"
 description: "Kamisaha - Anime Streaming Wordpress Theme is a minimalist looking yet powerful Wordpress Theme for streaming and download Anime. This theme use data generated from MyAnimelist that make your works easier. It's also easy to use and can customize the theme with Live Preview."
