@@ -79,7 +79,7 @@ export default function ProjectsPage({ projects }: ProjectsPageProps) {
                 </div>
               </Link>
             ))}
-            {Array.from({ length: 10 }, (_, index) => (
+            {Array.from({ length: 14 - projects.length }, (_, index) => (
               <div
                 key={`empty-${index}`}
                 className="py-1 grid grid-cols-1 sm:grid-cols-[2fr_1fr]"
