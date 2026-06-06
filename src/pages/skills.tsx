@@ -69,13 +69,37 @@ export default function SkillsPage() {
       ),
     },
     {
+      id: "golang",
+      label: "Golang",
+      content: (
+        <p>
+          Building performant REST APIs and services with Go, leveraging its
+          concurrency model with goroutines and channels, and structuring clean
+          backend architectures for production use.
+        </p>
+      ),
+    },
+    {
       id: "database",
       label: "Database",
       content: (
         <p>
           Designing relational schemas with PostgreSQL, working with NoSQL
           databases like MongoDB, optimizing queries, and implementing data
-          migrations.
+          migrations. Experienced with PostGIS for storing and querying
+          geospatial data, including bounding box and radius-based searches.
+        </p>
+      ),
+    },
+    {
+      id: "gis",
+      label: "GIS",
+      content: (
+        <p>
+          Working with geospatial data and GIS concepts including coordinate
+          systems, spatial indexing, and map tile rendering. Experienced
+          integrating PostGIS for backend spatial queries and MapLibre GL for
+          interactive map interfaces on the frontend.
         </p>
       ),
     },

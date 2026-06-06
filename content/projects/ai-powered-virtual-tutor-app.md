@@ -1,6 +1,6 @@
 ---
 id: ai-powered-virtual-tutor-app
-date: "31th August 2025"
+date: "2025-08-31"
 name: "AI Powered Virtual Tutor App"
 tech: "React Native, Express, Supabase, RAG, Prompt Engineering"
 description: "An AI-powered virtual tutor using React Native and Node.js, integrating GPT-based NLP, RAG, and prompt engineering to deliver accurate, context-aware learning support through vector database retrieval."

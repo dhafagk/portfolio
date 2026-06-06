@@ -29,7 +29,7 @@ export default function ProjectsPage({ projects }: ProjectsPageProps) {
     } else if (e.key === "ArrowDown") {
       e.preventDefault();
       setSelectedIndex((prev) =>
-        Math.min(projects.length - 1, (prev || 0) + 1)
+        Math.min(projects.length - 1, (prev || 0) + 1),
       );
     }
   };
