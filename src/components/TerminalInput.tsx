@@ -145,7 +145,7 @@ const TerminalInput = ({
           <div className="w-full max-w-2xl h-[80vh] flex flex-col">
             <div className="flex-1">
               <iframe
-                src="https://drive.google.com/file/d/1c_RxUrutj2jgeJeoAipIEHvVmAdJ9Xar/preview"
+                src="https://drive.google.com/file/d/1hTxOaKAf97EWa5E4cKRPEaHrMfkek9nC/preview"
                 className="w-full h-full border-0"
                 title="Resume"
               />
